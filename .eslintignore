@@ -1,0 +1,9 @@
+# **/*.js
+
+!src/**/*.js
+!src/**/*.ts
+!src/**/*.jsx
+!src/**/*.tsx
+src/**/ProxyApi.js
+src/**/*.mojom-webui.js
+dist/**
